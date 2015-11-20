@@ -1,0 +1,16 @@
+[
+{
+  "modid": "TMCS",
+  "name": "The Minecraft Server",
+  "description": "This is The Minecraft Server's core mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Playajames"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
